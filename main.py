@@ -3,7 +3,6 @@ from flask_bootstrap import Bootstrap5
 from flask_wtf import FlaskForm
 from wtforms import StringField, SubmitField, TimeField, SelectField
 from wtforms.validators import DataRequired, URL
-from tabulate import tabulate
 import csv
 
 '''
